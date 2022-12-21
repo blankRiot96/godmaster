@@ -1,11 +1,9 @@
-import pygame 
+from .game import game
 
 
 def main():
-    pass 
+    game()
 
 
 if __name__ == "__main__":
     main()
-
-
