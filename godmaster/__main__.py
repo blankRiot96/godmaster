@@ -1,4 +1,11 @@
-import pygame
-import physics
+import pygame 
 
-print(physics.PhysicalEntity)
+
+def main():
+    pass 
+
+
+if __name__ == "__main__":
+    main()
+
+
